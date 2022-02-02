@@ -18,10 +18,6 @@ In a number of places, `TODO` comments indicate where code may be added during t
 workshop as the necessary topics are introduced.
 Each `TODO` comment should refer to a particular section of the workshop:
 
-- `TODO(lesson-collaborative)` - refers to the lesson titled 'Collaborative Software Development'
-- `TODO(lesson-robust)` - refers to the lesson titled 'Writing Robust Software'
-- `TODO(lesson-design)` - refers to the lesson titles 'Software Design in Python'
-
 ## Tests
 
 Several tests have been implemented already, some of which are currently failing.
